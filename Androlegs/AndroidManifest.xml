@@ -1,0 +1,18 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pmezykowski.androlegs"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+<!--     if you want to use target < 11, just delete view.fragment.BaseAndrolegsFragment class.  -->
+    <uses-sdk
+        android:minSdkVersion="11" 
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+    </application>
+
+</manifest>

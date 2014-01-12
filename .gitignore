@@ -1,0 +1,11 @@
+Androlegs/libs/
+Androlegs/bin/
+Androlegs/.apt_generated/
+Androlegs-Demo/bin/
+Androlegs-Demo/.apt_generated/
+Androlegs-Demo/.factorypath
+Androlegs-Demo/libs/
+Androlegs/gen/
+Androlegs-Demo/gen/
+Androlegs/.factorypath
+us.stackdump
